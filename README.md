@@ -38,7 +38,7 @@ This is an ongoing project for me to practice using GitHub, Git/GitHub workflows
 
 ---
 
-## 🚀 Future Improvements (Planned)
+## Future Improvements (Planned)
 
 -
 - UI improvements (modern design, WPF)
