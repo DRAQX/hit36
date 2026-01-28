@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# additional visual stodio ignores
+.vs/
+bin/
+obj/
+*.user
